@@ -1,3 +1,3 @@
 # MPSShoppingCart
 
-# Example of Object orientated Shopping Cart
+## Example of Object orientated Shopping Cart
